@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "suka";
+  src: url(purple_smile/Purple\ Smile.ttf);
+}
+
+body {
+  font-family: "suka";
+}
